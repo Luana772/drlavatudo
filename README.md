@@ -1,6 +1,7 @@
 # Respostas Sql
 
 /* Banco de Dados */ 
+
 CREATE DATABASE DRLAVATUDO;
 USE DRLAVATUDO;
 
